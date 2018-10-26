@@ -14,3 +14,4 @@
 
 ![demo image](https://github.com/VasiliyPodlesniy/PhotoForRepositories/blob/master/CupRTC.jpg)
 ![demo image](https://github.com/VasiliyPodlesniy/PhotoForRepositories/blob/master/Stove.PNG)
+![demo image](https://github.com/VasiliyPodlesniy/PhotoForRepositories/blob/master/PoligonButton.JPG)

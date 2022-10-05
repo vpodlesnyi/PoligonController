@@ -1,12 +1,12 @@
 # PoligonController
-Печатная плата управления препятствиями испытательного полигона соревнований Кубок РТК.
+The PCB of the controller of test site obstacles for mobile robots.
 
 Technical specifications:
 
 - DC-DC moto
-- управление светодиодной матрицей и светодиодной лентой;
-- считывание нажатие кнопки;
-- обработка сигналов микроконтроллером Stm32F103RBT6;
+- LED matrix and LED strips controlling;
+- 4 inputs for dry contact signals;
+- Main MCU STM32F103RBT6;
 - связь с контроллером верхнего уровня через интерфейс RS-485;
 - переключение электромагнитного реле, используемого в препятствии "Подвесной мост".
 

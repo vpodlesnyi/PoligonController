@@ -3,13 +3,15 @@ The PCB of the controller of test site obstacles for mobile robots.
 
 Technical specifications:
 
-- DC-DC moto
-- LED matrix and LED strips controlling;
-- 4 inputs for dry contact signals;
-- Main MCU STM32F103RBT6;
-- связь с контроллером верхнего уровня через интерфейс RS-485;
-- переключение электромагнитного реле, используемого в препятствии "Подвесной мост".
+- Input voltage range of 5 V to 36 V.
+- Up to 3A of output current.
+- ESD, overvoltage and overcurrent precautions.
+- 1 output high-side switch.
+- 4 dry contact inputs.
+- Main MCU STM32F103RBT6.
+- Isolated RS-485 interface.
+- LED matrix controlling through SPI interface.
+- Relay driver.
 
 ![demo image](https://github.com/VasiliyPodlesniy/PhotoForRepositories/blob/master/CupRTC.jpg)
-![demo image](https://github.com/VasiliyPodlesniy/PhotoForRepositories/blob/master/Stove.PNG)
 ![demo image](https://github.com/VasiliyPodlesniy/PhotoForRepositories/blob/master/PoligonButton.JPG)
